@@ -1,0 +1,4 @@
+# Ignore Terraform's cache directory
+.terraform/
+.terraform.lock.hcl.terraform/
+.terraform.lock.hcl
